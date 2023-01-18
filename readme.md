@@ -5,7 +5,12 @@ a web version for [foambubble/foam](https://github.com/foambubble/foam)
 
 ## Usage
 
-0. Make sure you have [alvu](https://github.com/barelyhuman/alvu) installed.
+0. Make sure you have [alvu](https://github.com/barelyhuman/alvu) installed, an easy way is to use curl to get a custom build for your system.
+
+```sh
+curl -sf https://goblin.barelyhuman.xyz/codeberg.org/reaper/alvu@latest |sh
+```
+
 1. Clone this repo, or use your existing alvu repo.
 2. Make sure your `.vscode/settings.json` has the following line
 
