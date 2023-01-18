@@ -5,6 +5,7 @@ a web version for [foambubble/foam](https://github.com/foambubble/foam)
 
 ## Usage
 
+0. Make sure you have [alvu](https://github.com/barelyhuman/alvu) installed.
 1. Clone this repo, or use your existing alvu repo.
 2. Make sure your `.vscode/settings.json` has the following line
 
